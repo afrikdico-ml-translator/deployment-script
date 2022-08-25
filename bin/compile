@@ -2,7 +2,7 @@
 # bin/compile <build-dir> <cache-dir> <env-dir>
 
 echo "START DVC PULL"
-ls
+pwd
 cd /app 
 dvc pull
 echo "END DVC PULL"
