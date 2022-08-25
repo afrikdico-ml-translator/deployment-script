@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Afrikdico Custom Script"
+exit 0
